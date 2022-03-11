@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @markuszcl99
 - 👀 I’m interested in binge-watch
 - 🌱 I’m currently learning Spring Source Code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : e_markuszhang@163.com
 
 <!---
 markuszcl99/markuszcl99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
