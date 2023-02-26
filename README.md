@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm ZhangChenglong,you can call me Markus.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
 
 ### 👨🏻‍💻 About Me 
 
