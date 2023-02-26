@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About Me 
 
-- 🔭 I am currently learning the spring framework  source code and reading the book named 《On Java》
+- 🔭 I am currently learning the spring framework  source code and reading the book named 《On Java 8》
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 I graduated from Harbin University of Science and Technology
 - 💼 Currently working in Meituan as back-end development engineer
