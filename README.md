@@ -21,10 +21,9 @@
 - 🔧 Visual Studio code | IDEA | Git | Maven
 
 <br/>
-
 <a href="https://www.markuszhang.com">
     <img align="left" height="180" width="400" style="display: inline-block; "
-        src="https://github-readme-stats.vercel.app/api?username=markuszcl99&show_icons=true" />
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markuszcl99&show_icons=true" />
     <img align="right" height="180" width="400" style="display: inline-block; "
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuszcl99&layout=compact" />
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markuszcl99&layout=compact" />
 </a>
