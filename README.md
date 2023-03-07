@@ -9,7 +9,7 @@
 - 🎓 I graduated from Harbin University of Science and Technology
 - 💼 Currently working in Meituan as back-end development engineer
 - 📫 You can reach me at e_markuszhang@163.com or zhangcl1999@gmail.com
-- 🌱 Love life and full of hope.
+- 🌱 Love life and full of hope
 - ✍️ I like watching TV series
 - ☕ I belive, No step, no mile
 
