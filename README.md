@@ -21,7 +21,7 @@
 - 🔧 Visual Studio code | IDEA | Git | Maven
 
 <br/>
-<a href="https://www.markuszhang.com">
+<a href="https://markuszhang.com">
     <img align="left" height="180" width="400" style="display: inline-block; "
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markuszcl99&show_icons=true" />
     <img align="right" height="180" width="400" style="display: inline-block; "
